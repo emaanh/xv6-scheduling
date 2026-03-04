@@ -1,0 +1,15 @@
+.DS_Store
+*.o
+*.d
+*.asm
+*.sym
+*.img
+kernel
+mkfs
+initcode
+initcode.out
+entryother
+bootblock
+vectors.S
+.gdbinit
+_*
